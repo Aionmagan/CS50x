@@ -38,7 +38,7 @@ please do not copy my code, follow the guidelines
   * [speller](/CS50x/pset5/speller/)
   
  -[Problem Set 6: Python](/pset6/)
-  * [hello](/pset6/hello)
+  * [hello](/CS50x/pset6/hello)
   * mario
     + [less](/CS50x/pset6/mario/less/)
     + [more](/CS50x/pset6/mario/more/)
