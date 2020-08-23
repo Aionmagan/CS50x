@@ -35,7 +35,7 @@ please do not copy my code, follow the guidelines
   * [recover](pset4/recover/)
   
  -[Problem Set 5: Speller](/pset5/)
-  * [dictionary](pset5/speller/)
+  * [speller](pset5/speller/)
   
  -[Problem Set 6: Python](/pset6/)
   * [hello](/pset6/hello)
