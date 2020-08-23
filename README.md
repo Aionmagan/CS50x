@@ -20,7 +20,7 @@ please do not copy my code, follow the guidelines
   
  -[Problem Set 2: Arrays](/CS50x/pset2/)
   * [caeser](/CS50x/pset2/caeser)
-  * [substitution](/CS50x/pset2/subtitution)
+  * [substitution](/CS50x/pset2/substitution)
   * [readability](/CS50x/pset2/readability)
   
  -[Problem Set 3: Elections](/pset3/)
