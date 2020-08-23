@@ -56,4 +56,4 @@ please do not copy my code, follow the guidelines
   * [mario](/CS50x/pset8/mario)
   
 ### Certification
- ![Certification](CS50x.png)
+ ![Certification](CS50x.pdf)
